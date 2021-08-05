@@ -1,5 +1,10 @@
 # Spotiapp
 
+curl --location --request POST 'https://accounts.spotify.com/api/token' \
+--data-urlencode 'grant_type=client_credentials' \
+--data-urlencode 'client_id=75acf9c23d8d40e8a665512578afd515' \
+--data-urlencode 'client_secret=5dce42ebd32e4233afeb15e61a7b4165'
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
 ## Development server
