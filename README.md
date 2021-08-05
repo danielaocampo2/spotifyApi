@@ -9,7 +9,7 @@ We create the following pipes:
 We also use get and post requests.
 
 Keep in mind that for now this application works with a token that must be generated in a POST request through the following endpoint: https://accounts.spotify.com/api/token and in the body it must have:
-* **grant_type= **  client_credentials'
+* **grant_type=**  client_credentials'
 * **client_id =**
 * **client_secret =**
 
