@@ -1,4 +1,4 @@
-# Spotiapp :musical_note: :musical_note:
+:notes: :notes: # Spotiapp :musical_note: :musical_note:
 
 This is the third udemy app in the angular course, this one used the spotify API to get the latest releases, artists, and songs.
 
