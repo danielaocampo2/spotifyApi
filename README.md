@@ -1,6 +1,6 @@
 :notes: :notes: # Spotiapp :musical_note: :musical_note:
 
-:art: This is the third udemy app in the angular course, this one used the spotify API to get the latest releases, artists, and songs. :headphones
+:art: This is the third udemy app in the angular course, this one used the spotify API to get the latest releases, artists, and songs. :headphones:
 
 We create the following pipes:
 * **Noimage:** which controls the error of the requests that return the information of artists or albums without images, putting in its place a default image.
